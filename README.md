@@ -6,6 +6,10 @@
 
 # Tution Fee Manager
 
+
+https://user-images.githubusercontent.com/66847518/128494263-70129992-1583-4c91-967c-e88e9f7a6ca0.mp4
+
+
 A new Flutter project.
 
 ## Getting Started
