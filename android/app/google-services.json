@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210747652855",
+    "project_id": "feemanager-f9fad",
+    "storage_bucket": "feemanager-f9fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210747652855:android:44f5e13c5580c1242bf1f2",
+        "android_client_info": {
+          "package_name": "com.example.fe_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210747652855-096kqn9jgf9epbhp03pogua8is7g7l3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYM4nr-YKL-0olMmPQbMQf81wVn1JvmXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210747652855-096kqn9jgf9epbhp03pogua8is7g7l3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
