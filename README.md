@@ -2,7 +2,6 @@
 
 
 
-https://user-images.githubusercontent.com/66847518/128470994-064b1dd7-cc75-4c5d-9c30-fc8b3de2eb76.mp4
 
 
 # Tution Fee Manager
